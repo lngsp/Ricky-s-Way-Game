@@ -1,0 +1,20 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu1.html":[0,0,0,0,0,0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu1.html#a34fbb362e1651c41fe6baece805b3ef9":[0,0,0,0,0,0,0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu1.html#adb1a3531cf94abea1a7ae26f3c155bb1":[0,0,0,0,0,0,0,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu2.html":[0,0,0,0,0,0,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu2.html#a535a4995c1e1cfa4cd46cb7a4d732686":[0,0,0,0,0,0,1,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu2.html#ae8334f684ac26daad1d3a51570c5c3ba":[0,0,0,0,0,0,1,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu3.html":[0,0,0,0,0,0,2],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu3.html#a7b959db4b4bf961b5958b9f27262a786":[0,0,0,0,0,0,2,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu3.html#aa72994ed7cbab30c2e294c205b8f7ae3":[0,0,0,0,0,0,2,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu4.html":[0,0,0,0,0,0,3],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu4.html#a25e5b6d4616e2e5c7dcd51c0532fed8a":[0,0,0,0,0,0,3,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_portocaliu_1_1_copac_portocaliu4.html#a26b70ef66b72018b64ae1d2bddda5f2e":[0,0,0,0,0,0,3,1],
+"classes.html":[0,1],
+"hierarchy.html":[0,2],
+"index.html":[],
+"pages.html":[]
+};

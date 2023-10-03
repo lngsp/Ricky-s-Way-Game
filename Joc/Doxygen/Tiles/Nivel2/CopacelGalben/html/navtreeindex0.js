@@ -1,0 +1,20 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben1.html":[0,0,0,0,0,0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben1.html#a0dff1e4ddf02650f650020254d6f0d9b":[0,0,0,0,0,0,0,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben1.html#aa4e84d6228abf683865d60b2b062d890":[0,0,0,0,0,0,0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben2.html":[0,0,0,0,0,0,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben2.html#a95bb950dd337f14715d4ae5f3a44e4f0":[0,0,0,0,0,0,1,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben2.html#af08e14592aef09a02c0d3f19f6cc56c0":[0,0,0,0,0,0,1,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben3.html":[0,0,0,0,0,0,2],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben3.html#a9f1b046bbe27f2f0da6413ab4255017a":[0,0,0,0,0,0,2,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben3.html#aa4a87a863f2e7e24ac9fb8ae4147c8dc":[0,0,0,0,0,0,2,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben4.html":[0,0,0,0,0,0,3],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben4.html#a4f7035a58a7b260958ba6ac1f43d0407":[0,0,0,0,0,0,3,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copacel_galben_1_1_copacel_galben4.html#aa0dd419008ff2a28aa278f496ceded01":[0,0,0,0,0,0,3,0],
+"classes.html":[0,1],
+"hierarchy.html":[0,2],
+"index.html":[],
+"pages.html":[]
+};

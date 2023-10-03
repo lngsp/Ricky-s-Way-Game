@@ -1,0 +1,20 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol1.html":[0,0,0,0,0,0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol1.html#a78c4de3dd4c821896a513d83a169b055":[0,0,0,0,0,0,0,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol1.html#a804e6e959b93d6f3c200e4fda25df241":[0,0,0,0,0,0,0,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol2.html":[0,0,0,0,0,0,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol2.html#a44e3bb45eccba51a5931f7c52b74b01e":[0,0,0,0,0,0,1,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol2.html#a9c8acec49242302689f08728322c461a":[0,0,0,0,0,0,1,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol3.html":[0,0,0,0,0,0,2],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol3.html#a40e337e448223214e053724d9670f699":[0,0,0,0,0,0,2,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol3.html#a69bdd4f38e380740037754d31365572b":[0,0,0,0,0,0,2,1],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol4.html":[0,0,0,0,0,0,3],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol4.html#ad9c319bb1a5096f676c31ea29e7ca42f":[0,0,0,0,0,0,3,0],
+"class_tile_game_1_1_tiles_1_1_nivel2_1_1_copac_gol_1_1_copac_gol4.html#af22398ed09484000bfff03d56b90714d":[0,0,0,0,0,0,3,1],
+"classes.html":[0,1],
+"hierarchy.html":[0,2],
+"index.html":[],
+"pages.html":[]
+};
